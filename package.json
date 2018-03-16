@@ -1,0 +1,25 @@
+{
+  "name": "Fetch-Instagram-Images",
+  "version": "1.0.0",
+  "description": "Fetch-Instagram-Images",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-node": "^0.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/FabulousIcan/Fetch-Instagram-Images"
+  },
+  "keywords": [
+    "Fetch-Instagram-Images"
+  ],
+  "author": "Chiamaka Ikeanyi",
+  "license": "ISC"
+}
