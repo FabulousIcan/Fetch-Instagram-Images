@@ -13,10 +13,6 @@
         <div class="row">
             <% grams.forEach(function(gram){ %>
 
-                <div class="row username">
-                        <strong>User</strong> : <%= gram.user.full_name %> 
-                </div>
-
                 <div class="instagram-pic col-sm-3">
                     <a href="<%= gram.link %>" target="_blank">
                         <img src="<%= gram.images.standard_resolution.url %>" class="img-responsive">
