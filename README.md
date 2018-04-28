@@ -2,7 +2,6 @@
 
 An app built with Node 
 
-### Install Dependencies
 
 ### Install Node JS
 - Windows OS
